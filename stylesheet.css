@@ -2,16 +2,8 @@
 
 }
 
-body {
-  font-family: 'Roboto', sans-serif;
-}
-
-header {
-  font-family: 'Merriweather', serif;
-}
-
 .image {
-  border-radius: 50%;
+  border-radius: 25px;
   box-shadow: 10px 5px 5px black;
   flex: 1;
 }
