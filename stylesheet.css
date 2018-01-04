@@ -1,0 +1,26 @@
+* {
+
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+  font-family: 'Merriweather', serif;
+}
+
+.image {
+  border-radius: 50%;
+  box-shadow: 10px 5px 5px black;
+  flex: 1;
+}
+
+.image-box {
+  display: flex;
+}
+
+a:hover {
+  color: pink;
+  background-color: red;
+}
