@@ -122,6 +122,8 @@ h2 {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    max-width: 768px;
+    margin: auto;
   }
 
   form label, form input, form textarea {
